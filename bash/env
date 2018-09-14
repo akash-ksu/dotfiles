@@ -1,0 +1,2 @@
+export EDITOR="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
+export PATH=$PATH:~/bin
